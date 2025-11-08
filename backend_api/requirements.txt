@@ -10,4 +10,4 @@ whois==0.9.27
 python-whois==0.8.0
 cryptography==43.0.1
 aiohttp==3.10.5
-
+tldextract
